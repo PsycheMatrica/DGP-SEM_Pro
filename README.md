@@ -12,6 +12,7 @@ Gyeongcheol Cho
 - Derive implied covariance matrices from linear structural equation models with factors and/or components.
 - Randomly generate data from the model for simulation purposes.
 - **New in v1.1.0:** Support for generating data from SEM with **component interactions**.
+- **New in v1.2.0:** Support for generating data from SEM with **higher-order constructs**.
 
 ## Installation:
 To use this package in MATLAB:
