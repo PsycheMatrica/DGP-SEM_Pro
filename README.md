@@ -1,6 +1,6 @@
 # DGP-SEM_Pro
 
-## Version 1.0.0
+## Version 1.1.0
 
 ### Author:
 Gyeongcheol Cho
@@ -11,6 +11,7 @@ Gyeongcheol Cho
 ## Features:
 - Derive implied covariance matrices from linear structural equation models with factors and/or components.
 - Randomly generate data from the model for simulation purposes.
+- **New in v1.1.0:** Support for generating data from SEM with **component interactions**.
 
 ## Installation:
 To use this package in MATLAB:
@@ -24,7 +25,7 @@ To use this package in MATLAB:
    ```
 
 ## Usage:
-- To see examples of how to use the package, refer to the Run_Examples.m file. This file demonstrates how to derive implied covariance matrices and generate simulation data using the package.
+- To see examples of how to use the package, refer to the "Run_Example_...".m files. This file demonstrates how to derive implied covariance matrices and generate simulation data using the package.
 
 ## Compatibility:
 - Tested on MATLAB R2023b.
